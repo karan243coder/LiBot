@@ -1,7 +1,7 @@
 {
-    "TOKEN": "",
-    "ID": "",
-    "HASH": "",
+    "TOKEN": "6916875347:AAEVxR4cO_sIBB6V57ANA92pHKxzw9G3yX0",
+    "ID": "10471716“,
+    "HASH": "f8a1b21a13af154596e2ff5bed164860",
     "Laravel_Session": "",
     "XSRF_TOKEN": "",
     "GDTot_Crypt": "",
@@ -11,9 +11,9 @@
     "KATCRYPT": "",
     "UPTOBOX_TOKEN": "",
     "TERA_COOKIE": "",
-    "CLOUDFLARE": "",
+    "CLOUDFLARE": "90osPPzQXGY8Fl_JOnVSgYPURZoQzFFTl0pogFjVo9o-1722584827-1.0.1.1-csRH3Jmg2Blh1PYxSRiYzZszGHH_l4BA5TRG8ayBPrhptYaW5chAygHj22GdahtI43CFucvtr9TWwLkWf.Ch_Q",
     "PORT": 5000,
-    "DB_API": "",
-    "DB_OWNER": "bipinkrish",
+    "DB_API": "EyfCh928Mb5uFfmVzmtoHG6WhjVmOj0Q0uPEXbD-2-t6jgTx_vxY0g",
+    "DB_OWNER": "appus",
     "DB_NAME": "link_bypass.db"
 }
