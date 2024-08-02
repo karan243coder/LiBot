@@ -279,6 +279,6 @@ def docfile(
     bypass.start()
 
 
-# server loop
+# server loop starts
 print("Bot Starting")
 app.run()
